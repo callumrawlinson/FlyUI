@@ -1,0 +1,12 @@
+name: FlyUI-beta
+main: callum/Main
+version: 1.0.0
+api: [4.0.0]
+author: Callum
+
+commands:
+  fly:
+    description: "Opens the FlyGUI"
+permissions:
+  fly.permission:
+    default: false
